@@ -1,0 +1,119 @@
+*{
+padding: 0;
+/*margin: 0;*/
+text-decoration: none;
+box-sizing: border-box;
+}
+
+/*html{
+    /*text-align: center; */
+
+/*}*/
+
+
+body{
+/*background-color: rgb(255, 255, 255);*/
+font-family: "Roboto", sans-serif;
+width: 1200px;
+height: 1200px;
+}
+
+/*
+#imgContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* o container de imagens ocupará toda a largura da tela*/
+ /*   height: 400px; /* 400 pixels de altura */
+ /*   overflow: hidden; /* esconde a parte da imagem que ultrapassar o tamanho ou a altura desse container*/
+ /* }
+  */
+
+  /*
+  #imgContainer img {
+    /* adicionando efeitos para as imagens que estão dentro do container*/
+   /* width: 100%; /*ocupará toda a largura do container*/
+   /* height: 100%; /*ocupará toda a altura do container*/
+   /* display: inline-block; /* organiza as imagens em linha*/
+ /* }
+  */
+  
+
+/*
+h1, p, a{
+    color: white;
+    margin-top: 40px;
+    
+}
+*/
+
+/*
+.botaosaibamais{
+   color: blue;
+   text-align: center;   
+   
+}
+*/
+
+/*cabeçalho*/
+header, ul li{
+    font-size: 1.5em; 
+}
+
+.texto1{
+    color: rgb(52, 22, 218);
+    line-height: 2em;  /*espaçamento entre linhas*/
+    text-decoration: line-through; 
+    text-indent: 2em;
+    text-align: justify;
+}
+
+.iconebotao1{
+    color: chocolate;
+    font-size: 1.5em; 
+}
+
+.iconebotao2{
+    color: rgb(210, 30, 135);
+    font-size: 2.5em; 
+}
+
+
+div.iconebotao1{
+    text-align: center;
+}
+div.iconebotao2{
+    text-align: center;
+}
+
+
+
+/*botao saiba mais*/
+.botaosaibamais{
+    color: rgb(160, 29, 37);
+    font-size: 2em; 
+    font-style: italic;       
+}
+
+section{
+    text-align: center;
+}
+
+
+/*rodapé =  alinhamento do texto */
+ul {
+text-align: center;
+list-style: none;
+}
+
+/* alinhamento dos li no centro exemplo com 3 colunas*/
+ul li {
+    display: inline-block;
+}
+
+/* ajuste do tamanho dos icones do rodapé*/
+ul li a img {
+    width: 60px;
+    margin: 5px;
+}
+
+

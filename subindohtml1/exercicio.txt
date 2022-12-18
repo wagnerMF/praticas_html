@@ -1,0 +1,41 @@
+
+
+
+Possuir header, contendo um logotipo e um titulo (h1)
+estilizações obrigatórias no h1:
+estilizações do titulo:
+deverá importar um font-family do google fonts de sua escolha;
+font-size 30px;
+
+Possuir uma tag main , onde deverá conter:
+1 Imagem de banner com id de nome banner
+
+Estilizações do banner:
+height: 450px;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+1 tag div de classe container
+estilizações da div container:
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+text-align: justify;
+margin-bottom: 30px;
+
+Dentro da tag div que deverá ter classe de container deve conter:
+3 subtítulos  usando h2
+
+um ícone para cada um dos títulos, que deve estar dentro da tag h2, como mostra na  imagem de exemplo.
+
+estilizações do titulo:
+deverá importar um font-family do google fonts de sua escolha;
+text-align: center;
+margin-left: 10px;
+
+3 tag p , com seus respectivos subtitulos.
+utilizar dentro da tag p lorem50
+Conter carrossel com 3 imagens respectivos ao seu tema escolhido.
+Conter footer onde:
+deve conter uma tag h4, com o seguinte texto:
